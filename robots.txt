@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oxlii.github.io/TXC/sitemap.TXC.gz
